@@ -8,10 +8,6 @@ public class NumberCalculationTest{
 
 	NumberCalculation nc = new NumberCalculation();
 	
-	@Test
-	public void testCase1() {
-		assertEquals(nc.add(1, 2), 5);
-	}
 
 	@Test
 	public void testCase2() {
